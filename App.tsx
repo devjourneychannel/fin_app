@@ -1,8 +1,9 @@
-import { MainPage } from './src/components/MainPage';
+import { Home } from "./src/screens/Home";
+
 
 export default function App() {
   return (
-    <MainPage />
+    <Home />
   );
 }
 
